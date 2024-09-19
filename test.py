@@ -62,7 +62,7 @@ def generate_response(query, image=None):
         return response
 
 # Streamlit UI setup
-st.title("CogVLM Chatbot")
+st.title("Fitness Chatbot")
 
 # Image upload and text input
 uploaded_image = st.file_uploader("Upload an image", type=["png", "jpg", "jpeg"])
