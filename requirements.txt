@@ -1,0 +1,5 @@
+streamlit==1.38.0
+transformers==4.30.0  # or whatever the latest version is
+torch==2.0.0
+Pillow==10.4.0
+# add other dependencies here
